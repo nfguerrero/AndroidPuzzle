@@ -1,0 +1,392 @@
+2019-09-25 15:15:58,775 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-09-25 15:16:47,420 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\pom.xml
+2019-09-25 15:16:48,932 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: hello:test:0.0.1-SNAPSHOT @ C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\pom.xml.
+2019-09-25 15:16:49,573 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src/main/java
+2019-09-25 15:16:49,579 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src/test/java
+2019-09-25 15:16:49,760 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2019-09-25 15:16:50,939 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:16:50,940 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:16:50,946 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:16:50,946 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\test\resources
+2019-09-25 15:18:15,289 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:18:15,290 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:18:15,293 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:18:15,294 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\test\resources
+2019-09-25 15:19:49,424 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:19:49,425 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:19:49,427 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:19:49,428 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\test\resources
+2019-09-25 15:20:01,068 [Worker-2: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: hello:test:0.0.1-SNAPSHOT @ C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\pom.xml.
+2019-09-25 15:20:01,326 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:20:01,327 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:20:01,330 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:20:01,331 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\test\resources
+2019-09-25 15:22:40,399 [Worker-1: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-spring-boot:0.1.0 @ C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\pom.xml.
+2019-09-25 15:22:41,418 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:22:41,419 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:22:41,419 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:22:41,422 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:22:41,423 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\test\resources
+2019-09-25 15:22:43,107 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:22:43,107 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:22:43,107 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:22:43,109 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:22:43,109 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\test\resources
+2019-09-25 15:22:56,237 [Worker-0: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-spring-boot:0.1.0 @ C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\pom.xml.
+2019-09-25 15:22:56,730 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:22:56,731 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:22:56,731 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:22:56,735 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:22:56,735 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\test\resources
+2019-09-25 15:23:38,485 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:23:38,485 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:23:38,485 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:23:38,491 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:23:38,491 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\test\resources
+2019-09-25 15:24:13,228 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:24:13,229 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:24:13,229 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:24:13,235 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:24:13,235 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\test\resources
+2019-09-25 15:24:33,177 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:24:33,177 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:24:33,178 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:24:33,181 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:24:33,181 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\test\resources
+2019-09-25 15:25:58,892 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-25 15:26:04,822 [Worker-3: Launching test] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test
+2019-09-25 15:26:04,825 [Worker-3: Launching test] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile install -Dstyle.color=always
+2019-09-25 15:27:03,053 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:27:03,053 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:27:03,054 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:27:03,059 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:27:03,061 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\test\resources
+2019-09-25 15:27:07,071 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:27:07,072 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:27:07,073 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\main\resources
+2019-09-25 15:27:07,078 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:27:07,079 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test\src\test\resources
+2019-09-25 15:27:14,221 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-09-25 15:27:14,430 [Worker-0: Launching test] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test
+2019-09-25 15:27:14,430 [Worker-0: Launching test] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile install -Dstyle.color=always
+2019-09-25 15:27:35,956 [Worker-0: Launching test] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Nic Fox G\Desktop\Programs\CS309\OffSite\SpringTest\test
+2019-09-25 15:27:35,957 [Worker-0: Launching test] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile install -Dstyle.color=always
+2019-09-25 15:33:03,877 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:spring-petclinic:2.0.0 @ C:\Users\Nic Fox G\Desktop\petclinic-mysql-master\Spring\pom.xml.
+2019-09-25 15:33:05,222 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-petclinic/src/main/java
+2019-09-25 15:33:05,223 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-petclinic/src/main/resources
+2019-09-25 15:33:05,228 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-petclinic/src/main/resources
+2019-09-25 15:33:05,229 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-petclinic/src/test/java
+2019-09-25 15:33:05,410 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2019-09-25 15:33:07,017 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:33:07,024 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-25 15:33:07,044 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2019-09-25 15:33:07,084 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:33:07,084 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\petclinic-mysql-master\Spring\src\test\resources
+2019-09-25 15:33:09,020 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:33:09,024 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-25 15:33:09,024 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-25 15:33:09,028 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:33:09,028 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\petclinic-mysql-master\Spring\src\test\resources
+2019-09-25 15:33:37,564 [main] ERROR o.e.m2e.actions.ExecutePomAction - Skipping launch configuration test
+org.eclipse.core.runtime.CoreException: Variable references non-existent resource : ${project_loc:test}
+	at org.eclipse.debug.internal.core.variables.ResourceResolver.abort(ResourceResolver.java:112) ~[org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.variables.ResourceResolver.resolveValue(ResourceResolver.java:58) ~[org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.core.internal.variables.DynamicVariable.getValue(DynamicVariable.java:56) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.resolve(StringSubstitutionEngine.java:272) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.substitute(StringSubstitutionEngine.java:195) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.performStringSubstitution(StringSubstitutionEngine.java:90) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringVariableManager.performStringSubstitution(StringVariableManager.java:553) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringVariableManager.performStringSubstitution(StringVariableManager.java:349) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.m2e.internal.launch.LaunchingUtils.substituteVar(LaunchingUtils.java:28) ~[org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.getLaunchConfiguration(ExecutePomAction.java:290) [org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.launch(ExecutePomAction.java:138) [org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.launch(ExecutePomAction.java:127) [org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:431) [org.eclipse.debug.ui_3.14.100.v20190518-2143.jar:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:88) [org.eclipse.debug.ui_3.14.100.v20190518-2143.jar:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135) [org.eclipse.debug.ui_3.14.100.v20190518-2143.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580) [org.eclipse.jface_3.16.0.v20190528-0922.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:412) [org.eclipse.jface_3.16.0.v20190528-0922.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1056) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1080) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1065) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:779) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1272) [org.eclipse.jface_3.16.0.v20190528-0922.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1056) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3944) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3547) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203) ~[org.eclipse.equinox.app_1.4.200.v20190516-1504.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_201]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
+2019-09-25 15:33:37,567 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-25 15:34:00,973 [Worker-18: Launching Spring] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Nic Fox G\Desktop\petclinic-mysql-master\Spring
+2019-09-25 15:34:00,973 [Worker-18: Launching Spring] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B  -Dstyle.color=always
+2019-09-25 15:34:18,022 [main] ERROR o.e.m2e.actions.ExecutePomAction - Skipping launch configuration test
+org.eclipse.core.runtime.CoreException: Variable references non-existent resource : ${project_loc:test}
+	at org.eclipse.debug.internal.core.variables.ResourceResolver.abort(ResourceResolver.java:112) ~[org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.variables.ResourceResolver.resolveValue(ResourceResolver.java:58) ~[org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.core.internal.variables.DynamicVariable.getValue(DynamicVariable.java:56) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.resolve(StringSubstitutionEngine.java:272) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.substitute(StringSubstitutionEngine.java:195) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.performStringSubstitution(StringSubstitutionEngine.java:90) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringVariableManager.performStringSubstitution(StringVariableManager.java:553) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringVariableManager.performStringSubstitution(StringVariableManager.java:349) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.m2e.internal.launch.LaunchingUtils.substituteVar(LaunchingUtils.java:28) ~[org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.getLaunchConfiguration(ExecutePomAction.java:290) [org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.launch(ExecutePomAction.java:138) [org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.launch(ExecutePomAction.java:127) [org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:431) [org.eclipse.debug.ui_3.14.100.v20190518-2143.jar:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:88) [org.eclipse.debug.ui_3.14.100.v20190518-2143.jar:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135) [org.eclipse.debug.ui_3.14.100.v20190518-2143.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580) [org.eclipse.jface_3.16.0.v20190528-0922.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:412) [org.eclipse.jface_3.16.0.v20190528-0922.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1056) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1080) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1065) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:779) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1272) [org.eclipse.jface_3.16.0.v20190528-0922.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1056) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3944) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3547) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203) ~[org.eclipse.equinox.app_1.4.200.v20190516-1504.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_201]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
+2019-09-25 15:34:18,024 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-09-25 15:34:23,808 [Worker-16: Launching Spring] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Nic Fox G\Desktop\petclinic-mysql-master\Spring
+2019-09-25 15:34:23,808 [Worker-16: Launching Spring] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile install -Dstyle.color=always
+2019-09-25 15:44:32,072 [Worker-20: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration PetClinicApplication references non-existing project spring-petclinic.
+org.eclipse.core.runtime.CoreException: Launch configuration PetClinicApplication references non-existing project spring-petclinic.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.14.0.v20190508-0531.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713) ~[org.eclipse.jdt.launching_3.14.0.v20190508-0531.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.400.v20190516-1504.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-09-25 15:44:32,079 [Worker-20: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration PetClinicApplication references non-existing project spring-petclinic.
+org.eclipse.core.runtime.CoreException: Launch configuration PetClinicApplication references non-existing project spring-petclinic.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.14.0.v20190508-0531.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713) ~[org.eclipse.jdt.launching_3.14.0.v20190508-0531.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.400.v20190516-1504.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-09-25 15:44:32,088 [Worker-20: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration PetClinicApplication references non-existing project spring-petclinic.
+org.eclipse.core.runtime.CoreException: Launch configuration PetClinicApplication references non-existing project spring-petclinic.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.14.0.v20190508-0531.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713) ~[org.eclipse.jdt.launching_3.14.0.v20190508-0531.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.400.v20190516-1504.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-09-25 15:53:33,745 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:HelloWorldSpring:0.0.1-SNAPSHOT @ C:\Users\Nic Fox G\Desktop\springboot_tutorials-ex01\HelloWorldSpring\pom.xml.
+2019-09-25 15:53:34,765 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorldSpring/src/main/java
+2019-09-25 15:53:34,766 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorldSpring/src/test/java
+2019-09-25 15:53:34,928 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2019-09-25 15:53:35,512 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:53:35,512 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\springboot_tutorials-ex01\HelloWorldSpring\src\main\resources
+2019-09-25 15:53:35,513 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\springboot_tutorials-ex01\HelloWorldSpring\src\main\resources
+2019-09-25 15:53:35,515 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:53:35,515 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\springboot_tutorials-ex01\HelloWorldSpring\src\test\resources
+2019-09-25 15:53:36,665 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:53:36,666 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\springboot_tutorials-ex01\HelloWorldSpring\src\main\resources
+2019-09-25 15:53:36,666 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\springboot_tutorials-ex01\HelloWorldSpring\src\main\resources
+2019-09-25 15:53:36,669 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-25 15:53:36,670 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nic Fox G\Desktop\springboot_tutorials-ex01\HelloWorldSpring\src\test\resources
+2019-09-25 15:54:43,896 [main] ERROR o.e.m2e.actions.ExecutePomAction - Skipping launch configuration test
+org.eclipse.core.runtime.CoreException: Variable references non-existent resource : ${project_loc:test}
+	at org.eclipse.debug.internal.core.variables.ResourceResolver.abort(ResourceResolver.java:112) ~[org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.variables.ResourceResolver.resolveValue(ResourceResolver.java:58) ~[org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.core.internal.variables.DynamicVariable.getValue(DynamicVariable.java:56) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.resolve(StringSubstitutionEngine.java:272) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.substitute(StringSubstitutionEngine.java:195) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.performStringSubstitution(StringSubstitutionEngine.java:90) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringVariableManager.performStringSubstitution(StringVariableManager.java:553) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringVariableManager.performStringSubstitution(StringVariableManager.java:349) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.m2e.internal.launch.LaunchingUtils.substituteVar(LaunchingUtils.java:28) ~[org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.getLaunchConfiguration(ExecutePomAction.java:290) [org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.launch(ExecutePomAction.java:138) [org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.launch(ExecutePomAction.java:127) [org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:431) [org.eclipse.debug.ui_3.14.100.v20190518-2143.jar:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:88) [org.eclipse.debug.ui_3.14.100.v20190518-2143.jar:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135) [org.eclipse.debug.ui_3.14.100.v20190518-2143.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580) [org.eclipse.jface_3.16.0.v20190528-0922.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:412) [org.eclipse.jface_3.16.0.v20190528-0922.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1056) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1080) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1065) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:779) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1272) [org.eclipse.jface_3.16.0.v20190528-0922.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1056) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3944) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3547) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203) ~[org.eclipse.equinox.app_1.4.200.v20190516-1504.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_201]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
+2019-09-25 15:54:43,906 [main] ERROR o.e.m2e.actions.ExecutePomAction - Skipping launch configuration Spring
+org.eclipse.core.runtime.CoreException: Variable references non-existent resource : ${project_loc:spring-petclinic}
+	at org.eclipse.debug.internal.core.variables.ResourceResolver.abort(ResourceResolver.java:112) ~[org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.variables.ResourceResolver.resolveValue(ResourceResolver.java:58) ~[org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.core.internal.variables.DynamicVariable.getValue(DynamicVariable.java:56) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.resolve(StringSubstitutionEngine.java:272) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.substitute(StringSubstitutionEngine.java:195) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.performStringSubstitution(StringSubstitutionEngine.java:90) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringVariableManager.performStringSubstitution(StringVariableManager.java:553) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.core.internal.variables.StringVariableManager.performStringSubstitution(StringVariableManager.java:349) ~[org.eclipse.core.variables_3.4.500.v20190510-0549.jar:na]
+	at org.eclipse.m2e.internal.launch.LaunchingUtils.substituteVar(LaunchingUtils.java:28) ~[org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.getLaunchConfiguration(ExecutePomAction.java:290) [org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.launch(ExecutePomAction.java:138) [org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.launch(ExecutePomAction.java:127) [org.eclipse.m2e.launching_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:431) [org.eclipse.debug.ui_3.14.100.v20190518-2143.jar:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:88) [org.eclipse.debug.ui_3.14.100.v20190518-2143.jar:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135) [org.eclipse.debug.ui_3.14.100.v20190518-2143.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580) [org.eclipse.jface_3.16.0.v20190528-0922.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:412) [org.eclipse.jface_3.16.0.v20190528-0922.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1056) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1080) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1065) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:779) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1272) [org.eclipse.jface_3.16.0.v20190528-0922.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1056) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3944) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3547) ~[org.eclipse.swt.win32.win32.x86_64_3.111.0.v20190605-1801.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203) ~[org.eclipse.equinox.app_1.4.200.v20190516-1504.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255) ~[org.eclipse.osgi_3.14.0.v20190517-1309.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_201]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
+2019-09-25 15:54:43,910 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-25 15:54:51,492 [Worker-26: Launching HelloWorldSpring] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Nic Fox G\Desktop\springboot_tutorials-ex01\HelloWorldSpring
+2019-09-25 15:54:51,492 [Worker-26: Launching HelloWorldSpring] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package -Dstyle.color=always
