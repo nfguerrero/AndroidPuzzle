@@ -1,0 +1,23 @@
+coms-309-bs-6.misc.iastate.edu:8080
+
+
+"/"
+-Returns a string 'Yup! It's Running!'
+
+"/results"
+-Returns an array of JSON objects of all PuzzleResults
+
+"/results/user:{UserID}"
+-Returns an array of JSON objects of all PuzzleResults under *UserID*
+
+"/results/puzzle:{PuzzleID}"
+-Returns an array of JSON objects of all PuzzleResults under *PuzzleID*
+
+"/results/difficulty:{DifficultyID}"
+-Returns an array of JSON objects of all PuzzleResults under *DifficultyID*
+
+"/puzzles/difficulty:{DifficultyID}"
+-Returns an array of JSON objects of all Puzzles under *DifficultyID*
+
+"/friendship:{FriendID}"
+-Returns an array of all Friend objects based on the *FriendID*

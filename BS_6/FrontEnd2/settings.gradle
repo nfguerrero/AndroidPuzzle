@@ -1,0 +1,2 @@
+include ':app', 'desktop', 'android', 'html', 'core'
+rootProject.name='CyPuzzle2'

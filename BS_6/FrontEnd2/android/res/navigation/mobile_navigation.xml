@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_leaderboard_easy">
+
+    <fragment
+        android:id="@+id/navigation_leaderboard_easy"
+        android:name="com.cypuzzle.main.ui.easy.EasyFragment"
+        android:label="@string/title_leaderboard"
+        tools:layout="@layout/fragment_leaderboard_easy" />
+
+    <fragment
+        android:id="@+id/navigation_leaderboard_medium"
+        android:name="com.cypuzzle.main.ui.medium.MediumFragment"
+        android:label="@string/title_leaderboard"
+        tools:layout="@layout/fragment_leaderboard_medium" />
+
+    <fragment
+        android:id="@+id/navigation_leaderboard_hard"
+        android:name="com.cypuzzle.main.ui.hard.HardFragment"
+        android:label="@string/title_leaderboard"
+        tools:layout="@layout/fragment_leaderboard_hard" />
+
+</navigation>

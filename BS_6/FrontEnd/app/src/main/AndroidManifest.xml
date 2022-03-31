@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.cypuzzle2">
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="MainActivity">
+        </activity>
+        <activity
+            android:name=".AddFriendActivity"
+            android:label="AddFriend">
+        </activity>
+        <activity
+            android:name=".LeaderboardActivity"
+            android:label="@string/title_leaderboard">
+        </activity>
+        <activity
+            android:name=".NewPuzzleActivity"
+            android:label="@string/title_newPuzzle">
+        </activity>
+        <activity
+            android:name=".PuzzleDifficulty"
+            android:label="Puzzle Difficulty">
+        </activity>
+        <activity
+            android:name=".CreatePuzzleActivity"
+            android:label="@string/title_createPuzzle">
+        </activity>
+        <activity
+            android:name=".FriendsActivity"
+            android:label="@string/title_friends">
+        </activity>
+        <activity
+            android:name=".AchievementsActivity"
+            android:label="@string/title_achievements">
+        </activity>
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_settings">
+        </activity>
+        <activity
+            android:name=".EasyLeaderboardActivity"
+            android:label="Easy Leaderboard">
+        </activity>
+        <activity
+            android:name=".MediumLeaderboardActivity"
+            android:label="Medium Leaderboard">
+        </activity>
+        <activity
+            android:name=".HardLeaderboardActivity"
+            android:label="Hard Leaderboard">
+        </activity>
+        <activity
+            android:name=".MultiplayerActivity"
+            android:label="Multiplayer">
+        </activity>
+        <activity
+            android:name=".ChatActivity"
+            android:label="Chat">
+        </activity>
+        <activity
+            android:name=".ImageConverter"
+            android:label="Puzzle from Image">
+        </activity>
+        <activity android:name=".MainPuzzleActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths"></meta-data>
+        </provider>
+    </application>
+
+</manifest>

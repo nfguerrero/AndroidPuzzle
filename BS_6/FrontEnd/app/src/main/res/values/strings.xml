@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CyPuzzle</string>
+    <string name="title_home">Home</string>
+    <string name="title_leaderboard">Leaderboard</string>
+    <string name="title_newPuzzle">New Puzzle</string>
+    <string name="title_createPuzzle">Create Puzzle</string>
+    <string name="title_achievements">Achievements</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_settings">Settings</string>
+
+
+
+</resources>
